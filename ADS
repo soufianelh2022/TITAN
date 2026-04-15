@@ -1,6 +1,6 @@
 {
-  "ads_enabled": true,
-  "app_open_enabled": true,
+  "ads_enabled": false,
+  "app_open_enabled": false,
   "interstitial_enabled": true,
   "native_enabled": true,
   "rewarded_enabled": true,
