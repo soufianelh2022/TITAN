@@ -1,18 +1,18 @@
 {
-  "ads_enabled": false,
-  "app_open_enabled": false,
+  "ads_enabled": true,
+  "app_open_enabled": true,
   "interstitial_enabled": true,
   "native_enabled": true,
   "rewarded_enabled": true,
   "banner_enabled": true,
   "app_open_cooldown_seconds": 300,
   "interstitial_every_n_clicks": 2,
-  "native_interval": 6,
+  "native_interval": 3,
   "onesignal_enabled": true,
   "onesignal_id": "YOUR_ONESIGNAL_APP_ID",
-  "ad_unit_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "ad_unit_rewarded": "ca-app-pub-3940256099942544/5224354917",
-  "ad_unit_native": "ca-app-pub-3940256099942544/2247696110",
-  "ad_unit_banner": "ca-app-pub-3940256099942544/6300978111",
-  "ad_unit_app_open": "ca-app-pub-3940256099942544/9257395921"
+  "ad_unit_interstitial": "ca-app-pub-5318077592177136/7184256996",
+  "ad_unit_rewarded": "ca-app-pub-5318077592177136/1373739145",
+  "ad_unit_native": "ca-app-pub-5318077592177136/7747575803",
+  "ad_unit_banner": "ca-app-pub-5318077592177136/2702086507",
+  "ad_unit_app_open": "ca-app-pub-5318077592177136/4489797588"
 }
